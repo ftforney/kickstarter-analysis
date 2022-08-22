@@ -20,32 +20,10 @@ When the outcome of a project is compared to its launch date, we can get a good 
 
 When looking at this data, it looks very interesting! We can see here that a lot of successful projects are around the $0-$5000 range, and it begins to drop when you get about $15000. There are some successful campaigns in the $35000-$44999 range, but it seems ill-advised to stake your goal that high if you want a successful campaign, as the risks can outweigh the benefits. There is always a chance, but a safe bet would to be launching a campaign at least at or less than $4000.
 
-### Challenges and Difficulties Encountered
-
-When completing this dataset and getting the results, I can't say that I encountered any difficulties. The only issue I had was learning how to use certain excel commands properly. I overcame this just by looking at the in-app information about the commands, as well as some videos/documents online about how to use the respective command effectively.
-
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+There appear to be good launch dates between May and June, and it begins to fail near the end of the year. The best time to launch theater campaigns seem to be around the middle of the year, this should give you the best chances of success according to data.
 
-The first conclusion I can come to is a good launch date, which appears to be between May and June. The second conclusion I can draw is how it appears to fail right near the end of the year, so it is not wise to start one towards then. If I were to launch a theater campaign, I would want to do it at-least just before or right in the middle of a year for the best chance of success.
+The best goal for a successful campaign seems to be around less than $5000. Louise can take a risk and aim for around $40000, but it is definitely assuming she has a way to captivate the target audience.
 
-- What can you conclude about the Outcomes based on Goals?
-
-The best goal for a successful campaign seems to be around less than $5000. You can take a risk and aim for around $40000, but it is definitely assuming you have a way to captivate the target audience.
-
-- What are some limitations of this dataset?
-
-I believe some limtations are that there is no data pertaining to what caught a users attention to help fund a specific campaign, as well as any comments they made alongside their donations.
-
-There is also a limitation of not knowing what amount a given campaign increased or decreased in between its launch date and end date
-
-- What are some other possible tables and/or graphs that we could create?
-
-A graph can be created for when a campaign ended and what the end funding was, and then directly compare it to another graph containing the goals set on a launch date.
-
-A graph with a filter can also be created for displaying when a campaign launched, a line on a line chart representing where the end goal for that specific campaign is, and the final pledge and seeing just how far it went beyond the initial goal. This, however, does assume that we had the data for how much in a given day the campaign was donated to.
-
-## Additional Comments
-
-Hopefully this is fine to add, but if I had a chance to recreate this data set again, I would love to somehow pull the data to create the graph I mentioned. I would personally love to see how the funding process went in between a certain campaigns start and end date!
+One of the things that could have been present in the dataset are the amounts a given campaign increased or decreased during its launch.
